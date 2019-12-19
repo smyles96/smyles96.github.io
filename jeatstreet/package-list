@@ -1,0 +1,9 @@
+edu.vt.api.eatstreet
+edu.vt.api.eatstreet.exception
+edu.vt.api.eatstreet.model
+edu.vt.api.eatstreet.model.menu
+edu.vt.api.eatstreet.model.order
+edu.vt.api.eatstreet.model.restaurant
+edu.vt.api.eatstreet.model.user
+edu.vt.api.eatstreet.util.http
+edu.vt.api.eatstreet.util.json
